@@ -1,0 +1,15 @@
+# Ignore model files
+models/*.pkl
+*.pkl
+
+# Ignore dataset files
+dataset/*.csv
+*.csv
+*.xlsx
+*.json
+*.zip
+
+# Ignore environment files
+venv/
+.env
+__pycache__/
