@@ -2,6 +2,7 @@
 
 An intelligent content-based **Movie Recommender System** built using **Python, Machine Learning, and Streamlit**.  
 It suggests movies similar to a user-selected movie based on content similarity and displays posters fetched via **The Movie Database (TMDb) API**.
+notion link - https://www.notion.so/movie-recommender-system-2a4d5e197844807ba206f4ed9cd6df46?source=copy_link
 
 ---
 
